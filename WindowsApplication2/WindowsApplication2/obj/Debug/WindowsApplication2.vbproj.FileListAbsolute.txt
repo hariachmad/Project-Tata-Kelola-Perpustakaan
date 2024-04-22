@@ -1,0 +1,19 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.MDIParent1.resources
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\MTI-OP\Downloads\Project Perpustakaan\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication1.Form6.resources
